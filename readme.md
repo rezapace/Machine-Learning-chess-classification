@@ -1,5 +1,25 @@
 # Chess Piece Classification using CNN
 
+# HOW TO RUN PROJECT
+
+## How to Run the Project
+
+1. Download the Jupyter notebook:
+   ```bash
+   wget https://github.com/rezapace/Machine-Learning-chess-classification/releases/download/1.0/klasifikasi_catur.ipynb
+   ```
+
+2. Open Google Colab:
+   [https://colab.research.google.com/#create=true](https://colab.research.google.com/#create=true)
+
+3. Upload the downloaded `klasifikasi_catur.ipynb` file to Google Colab.
+
+4. Run the notebook:
+   - Execute each cell in order
+   - Follow the instructions provided in the notebook comments
+
+Note: Make sure you have a Google account to use Google Colab. If you encounter any issues, please refer to the [project repository](https://github.com/rezapace/Machine-Learning-chess-classification) for troubleshooting or to report problems.
+
 ## Description
 
 This project implements a Convolutional Neural Network (CNN) to classify chess pieces. It uses TensorFlow and Keras to build and train a model that can identify five different chess pieces: king, queen, rook, bishop, and pawn.
