@@ -2,8 +2,6 @@
 
 # HOW TO RUN PROJECT
 
-## How to Run the Project
-
 1. Download the Jupyter notebook:
    ```bash
    wget https://github.com/rezapace/Machine-Learning-chess-classification/releases/download/1.0/klasifikasi_catur.ipynb
